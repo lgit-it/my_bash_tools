@@ -62,4 +62,5 @@ alias du='du -ch'
 # top is atop, just like vi is vim
 alias top='atop'
 
-alias mc='~/my_bash_tools/exitcwd.sh
+alias mc='~/my_bash_tools/exitcwd.sh'
+
