@@ -13,8 +13,3 @@ fi
 rm -f "$MC_PWD_FILE"
 unset MC_PWD_FILE
 
-#
-# Remember also to put in aliases
-#
-#    alias mc='. ~/.config/mc/exitcwd'
-#

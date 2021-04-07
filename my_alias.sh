@@ -64,3 +64,10 @@ alias top='atop'
 
 alias mc='~/my_bash_tools/exitcwd.sh'
 
+export PS1="\u@\h:\W\\$ "
+
+# Set no limit for history file size
+export HISTSIZE=-1
+export HISTFILESIZE=-1
+export HISTTIMEFORMAT='%F, %T '
+export HISTCONTROL="erasedups:ignorespace"
