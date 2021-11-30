@@ -71,3 +71,9 @@ export HISTSIZE=-1
 export HISTFILESIZE=-1
 export HISTTIMEFORMAT='%F, %T '
 export HISTCONTROL="erasedups:ignorespace"
+
+# Odoo alias
+alias cdo='cd /home/odoo'
+alias cdoo='cd /home/odoo/src/odoo'
+alias cdow='cd /home/odoo/working'
+
